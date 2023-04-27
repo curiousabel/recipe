@@ -1,4 +1,4 @@
-# recipe
+# Recipe
 
 <img src="https://github.com/curiousabel/recipe/blob/main/justhtml.PNG" width="500px" height="420px" />
 
